@@ -1,2 +1,2 @@
 # fittingglasses
-fittingglasses in web
+웹에서 사용자의 얼굴을 읽은다음 여러 안경들을 합성해 가상으로 안경을 피팅 할 수 있는 웹을 만드는 것이 목표입니다
